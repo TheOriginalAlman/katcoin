@@ -1,5 +1,6 @@
 {
 	"name": "Kat Coin",
 	"symbol": "KAT",
+	"description": "The official Kat Token",
 	"image": "https://raw.githubusercontent.com/TheOriginalAlman/katcoin/main/catCoin.png"
 }
