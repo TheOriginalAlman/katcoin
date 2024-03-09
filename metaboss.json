@@ -2,7 +2,7 @@
 	"name": "Kat Coin",
 	"symbol": "KAT",
 	"description": "The official Kat Coin",
-	"image": "https://raw.githubusercontent.com/TheOriginalAlman/katcoin/main/token_metadata.json",
+	"image": "https://raw.githubusercontent.com/TheOriginalAlman/katcoin/main/katCoin.png",
 	"attributes": [],
 	"properties": {
 		"files": [
